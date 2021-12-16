@@ -81,8 +81,8 @@ test에 넣는 과정
 
 21 12 15
 지난 4일간 진행 상황
-1.로그인, 회원가입 기능 완료
-2.카드뷰에서 "자세한 정보"를 누를 시 충전소 상세정보를 위한 DetailActivity 로 이동
-3.editText 1줄만 적도록 추가
-4.메인화면과 상호작용하는 엑티비티들은 인텐트를 보낼 경우 startActivityForRequest 로 하도록 수정
-5.package 정리와 class 이름 수정.
+1. 로그인, 회원가입 기능 완료
+2. 카드뷰에서 "자세한 정보"를 누를 시 충전소 상세정보를 위한 DetailActivity 로 이동
+3. editText 1줄만 적도록 추가
+4. 메인화면과 상호작용하는 엑티비티들은 인텐트를 보낼 경우 startActivityForRequest 로 하도록 수정
+5. package 정리와 class 이름 수정.
